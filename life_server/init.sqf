@@ -63,7 +63,7 @@ publicVariable "robbery_success";
 };
 
 //Server-side functions that need to be sent out.
-publicVariable "TON_fnc_addVehicle2Chain";
+publicVariable "life_fnc_addVehicle2Chain";
 publicVariable "life_fnc_fedSuccess";
 
 [] spawn TON_fnc_federalUpdate;
